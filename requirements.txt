@@ -1,0 +1,3 @@
+﻿# Add the correct version of the goxlr package here
+# For example:
+# goxlr==1.0.0
